@@ -5,8 +5,15 @@ Unlock All:
 2.When given loader make sure you RUN AS ADMINISTRATOR or else it wont work properly.
 3.Further instructions will be in the loader.
 
+
+
+
+
 Chair:
 1.Will be a separate loader from unlock all please note that.
 2.Once given the loader do the same instructions as listed on top and instructions will also be given in the loader.
+
+
+
 
 If needed more assistance make a ticket in the discord.
