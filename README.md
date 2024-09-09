@@ -2,7 +2,7 @@
 
 **Unlock All**:
 ---
-1.Make absolutely sure that you have antivirus completely turned off do this by typing in your windows search bar "**virus and threat protection**".Itll pop up and you should open it and under it should say "**manage settings**" under it.Click on it and turn off "**real time protection**".
+1.Make absolutely sure that you have antivirus completely turned off do this by typing in your windows search bar "**VIRUS AND THREAT PROTECTION**".Itll pop up and you should open it and under it should say "**MANAGE SETTINGS**" under it.Click on it and turn off "**REAL TIME PROTECTION**".
 
 
 
